@@ -1,4 +1,4 @@
-import { User, WebsiteName, Wrapper } from './styles/TermInfo.styled';
+import { User, WebsiteName, Wrapper } from './styles/TermInfo.style';
 
 const TermInfo = () => {
   return (
